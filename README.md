@@ -12,7 +12,10 @@ O modelo aprende a classificar cada pixel da imagem em 3 categorias: **Fundo**, 
 
 | Imagem Original | Máscara Real | Máscara Prevista pelo Modelo |
 | :---: | :---: | :---: |
-| _[COLE AQUI SEU PRINT DA IMAGEM ORIGINAL]_ | _[COLE AQUI SEU PRINT DA MÁSCARA REAL]_ | _[COLE AQUI SEU PRINT DA MÁSCARA PREVISTA]_ |
+| _ ![agri_0_975](https://github.com/user-attachments/assets/ef8f8037-ce2b-4cf2-a692-f456daaacab1)
+ _ | _ <img width="512" height="512" alt="agri_0_975" src="https://github.com/user-attachments/assets/efba61be-a190-4169-8f9c-7290b01bfd7c" />
+ _ | _ <img width="279" height="279" alt="image" src="https://github.com/user-attachments/assets/18f2df89-de94-4499-9a41-9f7727602839" />
+_ |
 
 ---
 
