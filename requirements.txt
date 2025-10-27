@@ -1,0 +1,17 @@
+# Frameworks de Deep Learning
+torch
+torchvision
+
+# Processamento de Imagem e Augmentation
+opencv-python
+albumentations
+Pillow
+
+# Manipulação de Dados e Machine Learning
+numpy
+scikit-learn
+
+# Utilitários
+matplotlib
+tqdm
+kaggle

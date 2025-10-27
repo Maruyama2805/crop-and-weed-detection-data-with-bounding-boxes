@@ -1,0 +1,30 @@
+# --- Credenciais ---
+kaggle.json
+
+# --- Datasets ---
+# Pasta do dataset original baixado
+crop_weed_dataset/
+
+# Pasta onde as máscaras são salvas
+data/
+
+# Pasta do dataset preparado
+dataset_preparado/
+
+# --- Modelos Treinados ---
+# Ignora qualquer arquivo de modelo do PyTorch
+*.pth
+best_deeplab_model.pth
+
+# --- Arquivos de Cache e Sistema ---
+# Cache do Python
+__pycache__/
+
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivo de sistema do macOS
+.DS_Store
+
+# Ambiente Virtual
+venv/
